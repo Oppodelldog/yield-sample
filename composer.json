@@ -1,0 +1,14 @@
+{
+    "name": "generator/generator",
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sample\\": "src/"
+        }
+    }
+}
